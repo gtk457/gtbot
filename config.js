@@ -20,9 +20,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6287873670287']
-global.ownernomer = "6287873670287"
-global.premium = ['6287873670287']
+global.owner = ['6288970546064']
+global.ownernomer = "6288970546064"
+global.premium = ['6288970546064']
 global.packname = 'Iman-Bot'
 global.author = 'Iman'
 global.sessionName = 'nazedev'
